@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="name">Please enter your name</string>
+    <string name="intro">The burning questions that will keep you awake at night</string>
+    <string name="nameResults">Name</string>
+<string name="tryAgain">Try again?</string>
+
+    <string name="question_1">What happens when you get scared twice half to death?</string>
+    <string name="question_1_answer_1">You are 1 quarter alive</string>
+    <string name="question_1_answer_2">That\'s it man, game over man, game over!</string>
+    <string name="question_1_answer_3">Half-life 3 confirmed?</string>
+    <string name="question_1_answer_4">Almost die, have flashbacks, pass out, have another drink, tell your grandkids in 20 years</string>
+
+    <string name="question_2">Is it true cannibals don\'t eat clowns because they taste funny?</string>
+    <string name="question_2_answer_1">Why am I doing this quizz?</string>
+    <string name="question_2_answer_2">No, cannibals eat clows, just not the funny bone</string>
+    <string name="question_2_answer_3">I\'m afraid of clowns</string>
+    <string name="question_2_answer_4">I may be afraid of cannibals</string>
+
+    <string name="question_3">Why aren\'t koalas actual bears?</string>
+    <string name="question_3_answer_1">They can be teddy bears</string>
+    <string name="question_3_answer_2">Because they are marsupials</string>
+    <string name="question_3_answer_3">Because my mom says so</string>
+    <string name="question_3_answer_4">They don\'t meet the koalifications</string>
+
+    <string name="question_4">What\'s the worst thing about throwing a party in space?</string>
+    <string name="question_4_answer_1">The weather</string>
+    <string name="question_4_answer_2">You have to planet it</string>
+    <string name="question_4_answer_3">The slight disadvantage of having nothing to breathe</string>
+    <string name="question_4_answer_4">Nobody will hear your sweet jams</string>
+
+    <string name="question_5">Why don\'t blind people skydive?</string>
+    <string name="question_5_answer_1">They can\'t see</string>
+    <string name="question_5_answer_2">It might be dangerous</string>
+    <string name="question_5_answer_3">I know a blind person who has done it, so shut up!</string>
+    <string name="question_5_answer_4">It scares the crap out of their dogs</string>
+
+    <string name="question_6">A man is walking in the desert with his horse and his dog when the dog says, “I can’t do this. I need water.” The man says, “I didn’t know dogs could talk.”</string>
+    <string name="question_6_answer_1">The horse says, “Me neither!”</string>
+    <string name="question_6_answer_2">What? you can talk too?</string>
+    <string name="question_6_answer_3">Yes</string>
+    <string name="question_6_answer_4">Ok, let\'s get going then</string>
+    <string name="submit">Submit your answers</string>
+    <string name="result">Your result is</string>
+
+
+<string name="welcome">Welcome</string>
+    <string name="answer">Answers</string>
+
+</resources>
